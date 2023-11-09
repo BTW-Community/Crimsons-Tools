@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "crimsontoolsaddon",
+  "version": "${version}",
+
+  "name": "Crimson's Tools Addon",
+  "description": "Extra tool options, hopefully balanced for BTW",
+  "authors": [
+    "CrimsonStorm"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/BTW-Community/Crimsons-Tools"
+  },
+
+  "license": "CC 4.0 BY-SA-NC",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {},
+
+  "depends": {
+    "fabricloader": ">=0.7.4"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

@@ -1,0 +1,2 @@
+Version 0.1.0
+- Added the Stone Trowel, crafted with one string, one sharp rock, and one shaft, which can dig a few dirt blocks without triggering gravity behavior but is slow with low durability.
