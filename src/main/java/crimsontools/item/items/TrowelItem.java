@@ -1,14 +1,16 @@
-package crimsonstools.item.items;
+package crimsontools.item.items;
 
-import btw.item.items.ShovelItem;
+import api.item.items.ShovelItem;
 import net.minecraft.src.*;
+
 public class TrowelItem extends ShovelItem {
     public TrowelItem(int itemID) {
         super( itemID, EnumToolMaterial.STONE , /*iMaxUses=*/ 6);
 
         efficiencyOnProperMaterial /= 10;
-        this.setUnlocalizedName("crimsonToolsItemTrowel");
-        this.setCreativeTab(CreativeTabs.tabTools);
+        setUnlocalizedName("crimsontools:stone_trowel");
+        setCreativeTab(CreativeTabs.tabTools);
+        //setTextureName("crimsontools:stone_trowel");
 
     }
 }

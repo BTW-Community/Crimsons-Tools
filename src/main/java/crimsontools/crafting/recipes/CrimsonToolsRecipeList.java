@@ -1,8 +1,8 @@
-package crimsonstools.crafting.recipes;
+package crimsontools.crafting.recipes;
 
 import btw.crafting.recipe.RecipeManager;
 import btw.item.BTWItems;
-import crimsonstools.item.CrimsonToolsItems;
+import crimsontools.item.CrimsonToolsItems;
 import net.minecraft.src.Item;
 import net.minecraft.src.ItemStack;
 

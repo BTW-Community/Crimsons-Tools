@@ -1,4 +1,4 @@
-package crimsonstools.item;
+package crimsontools.item;
 
 import net.minecraft.src.Item;
 public class CrimsonToolsItems {

@@ -1,6 +1,6 @@
-package crimsonstools.item;
+package crimsontools.item;
 
-import crimsonstools.item.items.TrowelItem;
+import crimsontools.item.items.TrowelItem;
 
 public class CrimsonToolsItemInitializer {
     public static void initItems() {
