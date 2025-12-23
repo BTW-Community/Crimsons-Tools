@@ -4,6 +4,10 @@
 # Ignore Gradle build output directories
 **/build/
 !src/**/build/
+**/build_BTW/
+
+# Don't need to upload entile gradle dist
+**/gradle/wrapper/dists/
 
 # Screws up the MC dev plugin for IntelliJ..
 src/btw/**
